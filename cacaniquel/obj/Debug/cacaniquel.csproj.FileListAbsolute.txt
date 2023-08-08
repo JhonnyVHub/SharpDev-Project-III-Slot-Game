@@ -1,0 +1,8 @@
+F:\Etec\SharpDev\Caça Níquel Robusto\cacaniquel\bin\Debug\cacaniquel.exe.config
+F:\Etec\SharpDev\Caça Níquel Robusto\cacaniquel\bin\Debug\cacaniquel.exe
+F:\Etec\SharpDev\Caça Níquel Robusto\cacaniquel\bin\Debug\cacaniquel.pdb
+F:\Etec\SharpDev\Caça Níquel Robusto\cacaniquel\obj\Debug\cacaniquel.csprojResolveAssemblyReference.cache
+F:\Etec\SharpDev\Caça Níquel Robusto\cacaniquel\obj\Debug\cacaniquel.MainForm.resources
+F:\Etec\SharpDev\Caça Níquel Robusto\cacaniquel\obj\Debug\cacaniquel.csproj.GenerateResource.Cache
+F:\Etec\SharpDev\Caça Níquel Robusto\cacaniquel\obj\Debug\cacaniquel.exe
+F:\Etec\SharpDev\Caça Níquel Robusto\cacaniquel\obj\Debug\cacaniquel.pdb
